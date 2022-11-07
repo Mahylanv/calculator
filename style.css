@@ -1,0 +1,41 @@
+body {
+	text-align: center; background-color: beige;
+} 
+
+section {
+	display: none;
+	justify-content: center;
+}
+
+p {
+	font-size: 30px;
+}
+
+input {
+	background-color: wheat;
+	color: #000;
+	border: 1px solid #2f3e5b;
+	border-radius: 10px;
+	font-size: 20px;
+	cursor: pointer;
+}
+select {
+	background-color: wheat;
+	color: #000;
+	border: 1px solid #2f3e5b;
+	border-radius: 10px;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+button {
+	background-color: wheat;
+	color: #000;
+	margin: auto;
+	display: block;
+	border: 1px solid #2f3e5b;
+	border-radius: 10px;
+	font-size: 20px;
+	cursor: pointer;
+	margin-top: 50px;
+}
